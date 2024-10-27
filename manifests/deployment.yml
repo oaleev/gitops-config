@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: backend-app-container
-        image: manrala/backend:build-v1
+        image: manrala/backend:build-11542640865
         ports:
         - containerPort: 5000
 ---
